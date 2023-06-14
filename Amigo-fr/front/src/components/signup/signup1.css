@@ -1,0 +1,122 @@
+.left_right{
+    display: flex;
+  
+}
+.titresign{
+    font-size: 45px;
+    color:#ff6900;
+
+}
+.paragraphsign{
+    padding-top: 40px;
+    color:white;
+    font-size: 20px;
+    
+}
+
+.formulaire{
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding-left: 60px;
+    border-radius: 35px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+    width: 750px;
+    height: 550px;
+    border-radius: 20px;
+    background-color:  rgba(128, 128, 128, 0.7); 
+}
+.devenez{
+    color: white;
+}
+.inputsign{
+ 
+   align-items: center;
+  justify-content: center;
+    border-radius: 25px;
+    padding: 15px;
+    border: none;
+    width: 380px;
+
+}
+
+.name{
+    margin-bottom: 10px;
+    display: flex;
+}
+.buttonsign1{
+  width: 190px;
+   align-items: center;
+   justify-content: center;
+     border-radius: 25px;
+     padding: 15px;
+     background-color: #ff6900;
+     border: none;
+     
+ 
+}
+.left{
+  
+width: 900px;
+}
+.telechargersign{
+    font-size: 35px;
+   color: white;
+padding: 15px;
+
+}
+.logo{display: flex;}
+.num{
+    padding:20px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    justify-content: center;
+}
+.liaison{
+    width: 130px;
+    height: 2px;
+    border-radius: 25px;
+    padding-top: 5px;
+    border: none;
+}
+.nume{
+    justify-content: center;
+    border-radius: 35px;
+    border: none;
+    display: flex;
+    width: 25px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+}
+.nume22{
+    justify-content: center;
+    border-radius: 35px;
+    border: 1px solid rgb(12, 192, 12);
+    display: flex;
+    width: 25px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+}
+.enregistrer{
+    display: flex;
+   
+}
+.nume33{
+    justify-content: center;
+    border-radius: 35px;
+    border: 1px solid white;
+    display: flex;
+    width: 20px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+}

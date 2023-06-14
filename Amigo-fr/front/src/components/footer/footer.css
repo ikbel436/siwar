@@ -1,0 +1,159 @@
+/* 
+.form{
+    background-color: none;
+}
+.contact-list {
+    list-style-type: none;
+  }
+.display{
+  
+}
+.fr{
+    display:flex ;
+} */
+
+/***************************
+.footer-container {
+    background-color: rgba(128, 128, 128, 0.5);
+    padding: 30px;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-logo img {
+    width: 150px;
+  }
+  
+  .footer-info {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  
+  .footer-column h3 {
+    font-size: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-column li {
+    margin-bottom: 10px;
+  }
+  
+  .contact-list {
+    margin-top: 10px;
+  }
+  
+  .contact-list li {
+    margin-bottom: 5px;
+  }
+  
+  .footer-bottom {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+  }
+  */
+
+  /* Add a media query for screens smaller than 768px */
+ /* footer.css */
+
+/* footer.css */
+
+.footer-container {
+  background-color: #f5f5f5;
+  padding: 40px 0;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer-info {
+  flex: 1 1 300px;
+  margin-right: 20px;
+}
+
+.footer-logo img {
+  max-width: 150px;
+}
+
+.footer-links {
+  flex: 1 1 300px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.footer-section {
+  flex: 0 1 auto;
+  margin-right: 40px;
+}
+
+.footer-section h3 {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.footer-section p {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14px;
+  color: #555;
+}
+
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-section ul li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.footer-section ul li svg {
+  margin-right: 10px;
+}
+
+.footer-section ul li a {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  color: #333;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .footer-info,
+  .footer-links {
+    flex: 1 1 100%;
+    margin-right: 0;
+  }
+
+  .footer-links.mobile {
+    flex-direction: column;
+  }
+
+  .footer-section {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}

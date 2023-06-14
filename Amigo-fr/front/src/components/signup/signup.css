@@ -1,0 +1,276 @@
+/* .left_right{
+    display: flex;
+   padding: 200px;
+   padding-left: 250px;
+   padding-right: 250px;
+}
+.titresign{
+    font-size: 45px;
+    color:#ff6900;
+
+}
+.paragraphsign{
+    padding-top: 40px;
+    color:white;
+    font-size: 20px;
+    
+}
+
+.formulaire{
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding-left: 15px;
+    border-radius: 35px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+    width: 750px;
+    height: 550px;
+    border-radius: 20px;
+    background-color:  rgba(128, 128, 128, 0.7); 
+}
+.devenez{
+    color: white;
+}
+.inputsign{
+ 
+   align-items: center;
+  justify-content: center;
+    border-radius: 25px;
+    padding: 15px;
+    border: none;
+    width: 380px;
+
+}
+
+.name{
+    margin-bottom: 10px;
+    display: flex;
+}
+.buttonsign{
+  width: 420px;
+   align-items: center;
+   justify-content: center;
+     border-radius: 25px;
+     padding: 15px;
+     background-color: #ff6900;
+     border: none;
+     
+ 
+}
+.left{
+  
+width: 900px;
+}
+.telechargersign{
+    font-size: 35px;
+   color: white;
+padding: 15px;
+
+}
+.logo{display: flex;}
+.num{
+    padding:1px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    justify-content: center;
+}
+.liaison{
+    width: 130px;
+    height: 2px;
+    border-radius: 25px;
+    padding-top: 5px;
+    border: none;
+}
+.nume{
+    justify-content: center;
+    border-radius: 35px;
+    border: none;
+    display: flex;
+    width: 25px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+}
+.nume11{
+    justify-content: center;
+    border-radius: 35px;
+    border: 1px solid rgb(12, 192, 12);
+    display: flex;
+    width: 25px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+} */
+
+.left_right {
+    display: flex;
+  }
+  
+  .titresign {
+    font-size: 45px;
+    color: #ff6900;
+  }
+  
+  .paragraphsign {
+    padding-top: 40px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .formulaire{
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding-left: 60px;
+    border-radius: 35px;
+}
+  
+  .right {
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+    width: 750px;
+    height: 550px;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.7);
+  }
+  
+  .devenez {
+    color: white;
+  }
+  
+  .inputsign {
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 15px;
+    border: none;
+    width: 400px;
+  }
+  
+  .name {
+    margin-bottom: 10px;
+    display: flex;
+    width: 450px;
+  }
+  
+  .buttonsign {
+    width: 420px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 15px;
+    background-color: #ff6900;
+    border: none;
+  }
+  
+  .left {
+    width: 500px;
+  }
+  
+  .telechargersign {
+    font-size: 35px;
+    color: white;
+    padding: 15px;
+  }
+  
+  .logo {
+    display: flex;
+  }
+  
+  .num {
+    padding: 1px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+    justify-content: center;
+  }
+  
+  .liaison {
+    width: 130px;
+    height: 2px;
+    border-radius: 25px;
+    padding-top: 5px;
+    border: none;
+  }
+  
+  .nume {
+    justify-content: center;
+    border-radius: 35px;
+    border: none;
+    display: flex;
+    width: 25px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+  }
+  
+  .nume11 {
+    justify-content: center;
+    border-radius: 35px;
+    border: 1px solid rgb(12, 192, 12);
+    display: flex;
+    width: 25px;
+    height: 35px;
+    padding-left: 15px;
+    align-items: center;
+  }
+  /*****/
+
+  .elementor-heading-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .elementor-widget-text-editor {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+    margin-top: 10px;
+  }
+  .elementor-button-link {
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .elementor-button {
+    display: inline-block;
+    padding: 20px 50px;
+    background-color: #029fa0;
+    border: none;
+    border-radius: 5px;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .text-wrapper {
+    margin-bottom: 100px; /* Add desired space at the bottom */
+  }
+  
+  .button-wrapper {
+    margin-top: 50px; /* Add desired space at the top */
+  }
+  .content-wrapper {
+    margin-top: 60px; /* Add desired space at the top */
+  }
+  
+  .title-wrapper {
+    margin-bottom: 20px; /* Add desired space at the bottom of the title */
+  }
+  
+  /* Add any other custom styles you want */
+  
+  
+  /* Add any other custom styles you want */
+  

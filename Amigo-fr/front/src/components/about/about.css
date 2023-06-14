@@ -1,0 +1,45 @@
+.about {
+    height: 1000px;
+   
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .titre {
+    margin: 100px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .text {
+    margin-right: 20px;
+  }
+  
+  .text h2 {
+    color: #ff6900;
+    margin-bottom: 10px;
+  }
+  
+  .text p {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .about-image {
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+  }
+  

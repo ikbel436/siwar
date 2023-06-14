@@ -1,0 +1,37 @@
+.back{
+font-size: 20px;
+
+       
+}
+.form{ width: 999px;
+    height: 99px;
+    font-size: 999px;
+}
+    .foot{
+        padding-top: 500px;
+        background-color: 'gray';
+    }
+    .details{
+        padding: 150px;
+    }
+    .tele{
+     
+        background-color: aliceblue;
+        width: 1363px;
+        padding: 10px;
+        padding-right:300px ;
+        align-items: center;
+        justify-content: center;
+    }
+    .escape{
+        padding-left: 100px;
+    }
+    .foot{
+      
+        width: 1673px;
+        padding: 10px;
+       padding-top: 178px;
+        padding-left: 0px;
+        align-items: center;
+        justify-content: center;
+    }

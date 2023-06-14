@@ -1,0 +1,51 @@
+.navbar {
+  background-color:  rgba(128, 128, 128, 0.3); 
+      height: 80px;
+    display: flex;
+   justify-content: space-between;
+   padding-left: 300px ;
+  padding-right: 300px;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+  .aligne{
+    display: flex;
+    padding: 15px;
+ 
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .contact{
+  
+    color: white;;
+    display: flex;
+    padding: 3px 19px ;
+    padding-right: 30px;
+
+  }
+  .navbar-container {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    max-width: 1500px;
+  }
+  
+ 
+  .log{
+
+    cursor: pointer;
+    text-decoration: none;
+    width: 200px;
+    height: 90px;
+    
+    display: flex;
+    align-items: right;
+  }
+ 
+  
+  
+ 
